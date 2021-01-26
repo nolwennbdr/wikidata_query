@@ -1,5 +1,5 @@
-# Wikidata requests
-Devoir : requête sparql sur wikidata query service
+# Requêtes wikidata
+*__Devoir :__ Requêtes SPARQL sur Wikidata query service*
 
 ### Les peintures de monet :
 
